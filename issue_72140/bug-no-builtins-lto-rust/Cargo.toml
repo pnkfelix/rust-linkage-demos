@@ -1,0 +1,11 @@
+[workspace]
+members = [
+  "no-builtins-lib",
+  "no-builtins-bin",
+]
+
+[profile.release]
+opt-level = 3
+debug = false
+rpath = false
+lto = true

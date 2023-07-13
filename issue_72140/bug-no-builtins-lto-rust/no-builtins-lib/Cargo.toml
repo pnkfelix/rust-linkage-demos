@@ -1,0 +1,7 @@
+[package]
+name = "no-builtins-lib"
+version = "0.1.0"
+authors = ["Deluvi"]
+edition = "2018"
+
+[dependencies]

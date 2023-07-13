@@ -1,0 +1,8 @@
+[package]
+name = "no-builtins-bin"
+version = "0.1.0"
+authors = ["Deluvi"]
+edition = "2018"
+
+[dependencies]
+no-builtins-lib = { path = "../no-builtins-lib" }
